@@ -2,6 +2,9 @@
 
 A simple website with a payment gateway integration using Razorpay button embedded.
 
+## Important Links
+* Click <a href="https://razorpay.com/">here</a> to know more about Razorpay
+* Click <a href="">here</a> to view hosted website
 ## Demo
 
 * Home
